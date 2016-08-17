@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Qml-Toolbar
+Exec=qmlscene %U Qml-Toolbar/Main.qml
+Icon=Qml-Toolbar/Qml-Toolbar.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

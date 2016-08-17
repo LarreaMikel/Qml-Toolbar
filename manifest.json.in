@@ -1,0 +1,17 @@
+{
+    "name": "qml-toolbar.larreamikel",
+    "description": "description of Qml-Toolbar",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Qml-Toolbar",
+    "hooks": {
+        "Qml-Toolbar": {
+            "apparmor": "Qml-Toolbar/Qml-Toolbar.apparmor",
+            "desktop":  "Qml-Toolbar/Qml-Toolbar.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Mikel Larrea <developer@larreamikel.com>",
+    "framework" : "ubuntu-sdk-15.04.6"
+}
+
+
